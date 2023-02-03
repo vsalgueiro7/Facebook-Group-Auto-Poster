@@ -9,17 +9,18 @@ Este projeto visa criar um script que permita a postagem automática em grupos d
 
 ### 🔧 Instalação
 
-Clone este repositório para o seu servidor
-
+* Clone este repositório para o seu servidor
 ```
 git clone https://github.com/seu-username/facebook-group-auto-poster.git
-Instale as dependências necessárias
+```
+* Instale as dependências necessárias
+```
 npm install
-Edite o arquivo .env com **LOGIN_FACE** e **SENHA_FACE**.
-Uso
-Execute o script
+```
+* Edite o arquivo .env com **LOGIN_FACE** e **SENHA_FACE**
+* Execute o script
+```
 node app.js
-
 ```
 
 ## 🚀 Começando
