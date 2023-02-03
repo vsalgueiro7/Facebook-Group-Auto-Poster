@@ -31,4 +31,4 @@ O script irá postar automaticamente no grupo especificado de acordo com o login
 Use este projeto por sua conta e risco. Não nos responsabilizamos por quaisquer danos causados por sua utilização.
 Certifique-se de cumprir as políticas do Facebook antes de utilizar este projeto.
 
-## ⌨️ Desenvolvido por Vitor Salgueiro 
+#### ⌨️ Desenvolvido por Vitor Salgueiro 
