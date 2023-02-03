@@ -1,0 +1,16 @@
+{
+  "name": "robo_postagem_facebook",
+  "version": "1.0.0",
+  "description": "Robo Publicador em Grupos do Facebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Vitor Salgueiro",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.5.2"
+  }
+}
