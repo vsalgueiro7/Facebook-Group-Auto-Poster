@@ -1,4 +1,5 @@
 # Facebook Group Auto Poster
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 Este projeto visa criar um script que permita a postagem automática em grupos do Facebook.
 
