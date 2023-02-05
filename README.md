@@ -19,14 +19,14 @@ git clone https://github.com/seu-username/facebook-group-auto-poster.git
 npm install
 ```
 * Edite o arquivo .env com **LOGIN_FACE** e **SENHA_FACE**
+* coloque suas imagens na pasta img, recomenda-se usar imagens com tamanho inferior a 150 kbs.
 * Execute o script
 ```
 node app.js
 ```
 
 ## 🚀 Começando
-O script irá postar automaticamente no grupo especificado de acordo com o login e senha fornecidas no arquivo .env
-
+O script irá postar automaticamente no grupo especificado de acordo com o login e senha fornecidas no arquivo .env.
 
 ## Observações
 Use este projeto por sua conta e risco. Não nos responsabilizamos por quaisquer danos causados por sua utilização.
